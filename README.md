@@ -1,4 +1,4 @@
-# Chatne App
+# NeroChatApp
 
 **Chatne** is a simple chat application built with **[Kotlin](https://github.com/JetBrains/kotlin)** and **[Jetpack Compose](https://developer.android.com/jetpack/compose)** that allows authenticated Google users to join a single shared chat room.
 
